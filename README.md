@@ -1,5 +1,5 @@
 # end-to-end-encrypted-secure-chat-
-# Secure Chat App (E2EE) - Reference Implementation
+
 
 ## Requirements
 - Python 3.9+
