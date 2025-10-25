@@ -1,0 +1,6 @@
+Flask==2.2.5
+Flask-SocketIO==5.3.3
+python-socketio==5.9.0
+cryptography==41.0.2
+requests==2.31.0
+eventlet==0.33.3   
